@@ -1,0 +1,41 @@
+:root{
+    --swiper-theme-color: white;
+}
+
+
+p{
+    margin: 0;
+}
+body{
+    font-family: "OAGothic-ExtraBold";
+}
+
+.ss1{
+    background-color: brown;
+}
+.ss2{
+    background-color: blue;
+}
+.ss3{
+    background-color: green;
+}
+
+.swiper-slide{
+    font-size: 4rem;
+    color: white;
+}
+
+@media only screen and (min-width: 991px){
+    .swiper-slide{
+        height: 800px;
+    }
+    br{
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width: 990px){
+    .swiper-button-prev, .swiper-button-next{
+        display: none;
+    }
+}
