@@ -1,4 +1,4 @@
-var swiper = new Swiper("#bannerSwiper1 .swiper", {
+var swiper = new Swiper("#bannerSwiper1 .Swiper-1", {
     loop: true,
     autoplay: {
         delay: 2500,
