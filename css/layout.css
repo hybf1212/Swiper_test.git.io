@@ -27,7 +27,7 @@
     .swiper-slide{
         height: 800px;
     }
-    br{
+    #bannerSwiper1 br{
         display: none !important;
     }
 }

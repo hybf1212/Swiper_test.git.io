@@ -1,5 +1,5 @@
 
-.swiper-slide {
+#bannerSwiper1 .swiper-slide {
     height: 100vh;
     display: flex;
     justify-content: center;
